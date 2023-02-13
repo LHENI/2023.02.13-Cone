@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MainConsole {
     public MainConsole() {
-        System.out.println("Feladat 302");
+        System.out.println("Feladat 301");
         String radiusStr = input("Sugár:  ");
         String heightStr = input("Magasság:");
         double radius = Double.parseDouble(radiusStr);
